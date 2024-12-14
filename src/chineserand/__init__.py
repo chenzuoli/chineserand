@@ -4,9 +4,11 @@
 """
 通过中文语料库，生成随机中文
 """
+import os.path
 import random
 
-with open('global_word.release', 'r', encoding='utf8') as f:
+data_file = os.path.join(os.path.dirname(__file__), 'global_word.rst')
+with open(data_file, 'r', encoding='utf8') as f:
     chinese_words = f.readline()
 
 

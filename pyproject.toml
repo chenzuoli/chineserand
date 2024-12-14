@@ -1,6 +1,6 @@
 [project]
 name = "chineserand"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="chenzuoli", email="chenzuoli709@163.com" },
 ]
@@ -16,3 +16,8 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/chenzuoli/chineserand"
 Issues = "https://github.com/chenzuoli/chineserand/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.setuptools.package-data]
+mypkg = ["*.txt", "*.rst"]
