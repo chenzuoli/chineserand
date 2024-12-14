@@ -21,7 +21,7 @@
 ## 使用方法
 
 ```commandline
-pip install chinese_random
+pip install chineserand
 ```
 
 python示例：
