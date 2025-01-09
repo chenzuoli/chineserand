@@ -40,6 +40,8 @@ print(many_sentences)
 ```
 
 如果有任何问题，欢迎提issue。
+github地址：
+![chineserand](https://github.com/chenzuoli/chineserand)
 
 # 后期规划
 
