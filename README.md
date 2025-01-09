@@ -20,15 +20,23 @@
 
 ## 使用方法
 
+### 安装
 ```commandline
 pip install chineserand
 ```
 
-python示例：
+### 1.生成随机文字
 ```python
 from chineserand import raw
 chinese_words = raw(10)
 print(chinese_words) 
+```
+
+### 2.生成句子
+```python
+from chineserand import sentences
+many_sentences = sentences(many=4)
+print(many_sentences)
 ```
 
 如果有任何问题，欢迎提issue。
@@ -50,5 +58,5 @@ print(chinese_words)
 
 公众号：
 <div style="text-align: center;">  
-    <img src="images/image.png" alt="乐知付" style="width: 50%;">  
+    <img src="https://img2024.cnblogs.com/blog/1455070/202409/1455070-20240919212128860-1944218544.png" alt="乐知付" style="width: 50%;">  
 </div>
