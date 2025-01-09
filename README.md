@@ -58,7 +58,8 @@ github地址：
 
 官网地址：[www.lezhifu.cc](https://lezhifu.cc)
 
-公众号：
+公众号【乐知付加密平台】：
 <div style="text-align: center;">  
+    <img src="images/image.png" alt="乐知付" style="width: 50%;">  
     <img src="https://img2024.cnblogs.com/blog/1455070/202409/1455070-20240919212128860-1944218544.png" alt="乐知付" style="width: 50%;">  
 </div>
